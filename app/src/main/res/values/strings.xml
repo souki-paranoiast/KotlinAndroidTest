@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinAndroidTest</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="emptyTime">empty</string>
+    <string name="alarmDescription">alarm run time</string>
+    <string name="pageTitle">Alarm application developed with Kotlin</string>
+</resources>
